@@ -1,0 +1,10 @@
+package minhtung.com;
+
+public class TestKieuDuKieu {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

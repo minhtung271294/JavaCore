@@ -14,6 +14,5 @@ public class TestIfElse {
 		 * " Là số lẻ"); } else { System.out.println(num +
 		 * " Không trong khoảng từ 0 -10"); }
 		 */
-		(num % 2 == 0) ? " Là số chẵn" : " Là số chẵn";
 	}
 }
